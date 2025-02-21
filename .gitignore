@@ -1,0 +1,21 @@
+# Visual Studio
+
+.vs
+vcpkg_installed
+
+# Mac
+
+*.DS_Store
+
+# File extensions
+
+*.a
+*.o
+*.dll
+
+# Possible locations to put build files that you do not want saved
+
+bin
+bld
+build
+out
